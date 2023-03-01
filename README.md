@@ -8,7 +8,7 @@ This is a Chat project in Vanilla. You can use it in your website for free. In t
 ## Deeper in the proejct
 In this proejct I use properly the functions given by PHP and JS. You can see the utilization of Ajax, and the Sessions functions given by PHP. 
 
-##Teconologies 
+## Teconologies 
 Ajax and database PostgreSql
 
 If you have any questions about this project, do not hesitate to contact me.
