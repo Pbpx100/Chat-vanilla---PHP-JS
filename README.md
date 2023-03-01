@@ -1,11 +1,22 @@
-## This is a chat made with PHP and JS in Vanilla 
-Chat - to show my work, this is not heavy project is 117 Kb
-You can use it in your website
+
+## Goal of the project
+Chat - to show my skills with PHP, JS, Html and Css. You can use it in your website
+
+## About the project
+This is a Chat project in Vanilla. You can use it in your website for free. In this chat you can create users, login, select other used connected and talk with them in a reserved space for them. It's esay to apply this chat in your website. 
+
+## Deeper in the proejct
+In this proejct I use properly the functions given by PHP and JS. You can see the utilization of Ajax, and the Sessions functions given by PHP. 
+
+##Teconologies 
+Ajax and database PostgreSql
+
+If you have any questions about this project, do not hesitate to contact me.
+You can share it, copy it or display it on a web page.
+Enjoy the code.
 
 ## You just have to create the tables in your database
 
-## Table in pgAdmin
-## Table message
 
 CREATE TABLE IF NOT EXISTS public.messages
 (
